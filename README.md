@@ -37,7 +37,7 @@ screen -S kuzco
 kuzco init
 ```
 
-> sol alttan mail verify etmeyı unutmayın
+> sol alttan mail verify etmeyı unutmayın.
 
 #
 
